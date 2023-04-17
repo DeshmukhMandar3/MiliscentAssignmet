@@ -1,0 +1,40 @@
+.wrapper {
+  text-align: left;
+  width: 75%;
+  padding: 10px;
+}
+
+.header {
+  font-size: x-large;
+  margin: 10px;
+}
+
+.breadcrumb {
+  margin: 10px;
+}
+
+.innerwrapper {
+  padding: 10px;
+  border: solid;
+  border-radius: 10px;
+  height: 80vh;
+  text-align: center;
+}
+
+.tag {
+  font-size: x-large;
+}
+
+.box {
+  border: solid white;
+  width: 60%;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.bottomflex {
+  margin-bottom: 0px;
+  justify-content: space-evenly;
+}

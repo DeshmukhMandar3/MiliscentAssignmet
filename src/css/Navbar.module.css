@@ -1,0 +1,21 @@
+.wrapper {
+  width: 15%;
+  border-right: solid gray;
+}
+
+.header {
+  font-weight: bold;
+  font-size: x-large;
+  margin: 25px 0px;
+}
+
+.head {
+  font-weight: bold;
+  text-align: left;
+  margin: 15px;
+}
+
+.link {
+  margin: 10px 15px;
+  text-align: left;
+}
